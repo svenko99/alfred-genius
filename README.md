@@ -16,7 +16,7 @@ The "Genius Lyrics Finder" is an Alfred workflow that allows you to quickly sear
 
 ## Installation
 
-1. Download the "Genius Lyrics Finder" workflow from the [GitHub repository](https://github.com/example/lyrics-finder-workflow).
+1. Download the "Genius Lyrics Finder" workflow from the [⤓ GitHub repository](https://github.com/svenko99/aalfred-genius/releases/latest/download/Genius.Lyrics.Finder.alfredworkflow).
 2. Double-click the downloaded file to install it in Alfred.
 
 ## Usage
