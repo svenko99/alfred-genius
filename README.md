@@ -1,7 +1,7 @@
 # 🎵 Genius Lyrics Finder Workflow for Alfred
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+
 
 ## Introduction
 
