@@ -24,7 +24,7 @@ The "Genius Lyrics Finder" is an Alfred workflow that allows you to quickly sear
 1. In Alfred, type `lyrics` followed by the lyrics you want to search for. For example: `lyrics love me like you do`.
 2. The workflow will fetch the lyrics results from Genius.com and display them in Alfred.
 3. Click on a result to open the lyrics page on Genius.com in your browser.
-4. To download and display the song's header image as an icon in the results, check `Download and display images` in `Configure Workflow...` in Alfred. Additionally, you can adjust the `Images cache days` setting to determine the number of days an image should be stored in the cache before being automatically removed.
+4. To display the song's header image as an icon in the results, check `Download and display images` in `Configure Workflow...` in Alfred. Additionally, you can adjust the `Images cache days` setting to determine the number of days an image should be stored in the cache before being automatically removed.
 
 	<img src="https://github.com/svenko99/alfred-genius/blob/main/images/example.gif" width=93% height=93%/>
 
