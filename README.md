@@ -5,7 +5,7 @@
 
 ## Introduction
 
-The Genius Lyrics Finder is an [Alfred](https://www.alfredapp.com/) workflow that allows you to quickly search for song lyrics using the Genius API. It provides a convenient way to find lyrics for your favorite songs right from your Alfred interface.
+The Genius Lyrics Finder is an [Alfred](https://www.alfredapp.com/) workflow that allows you to quickly search for song lyrics using the [Genius](https://genius.com/) API. It provides a convenient way to find lyrics for your favorite songs right from your Alfred interface.
 
 ## Features
 
